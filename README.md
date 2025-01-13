@@ -1,6 +1,6 @@
 # AlertInfo
 
-**AlertInfo (AI)** is a plugin that integrates ChatGPT and Google for the **biker_info** system. It allows users to perform web searches and process content using AI.  
+**AlertInfo (AI)** is a plugin that integrates ChatGPT and Google for the **biker_info** system. It allows the system to perform web searches and process content using AI.  
 
 **AlertInfo** is also an SMS-based service enabling users to request any information from the internet, delivered at a chosen frequency.
 
@@ -26,7 +26,7 @@ At the beginning of your SMS, specify the desired notification frequency. Choose
 
 ## The Challenge
 
-Using the web application, OpenAI GPT API does not allow internet searches.  
+Unlike using the web application, OpenAI GPT API does not allow internet searches, due to a safety-excuse.  
 
 ### The Workaround
 
