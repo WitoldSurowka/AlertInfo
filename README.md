@@ -41,6 +41,7 @@ By combining the **Google Search API** with the **OpenAI ChatGPT API**, we can a
 ### **Google Search API**
 ```bash
 curl -X GET "https://www.googleapis.com/customsearch/v1?q=your_query&key=GOOGLE_SEARCH_API_KEY&cx=YOUR_SEARCH_ENGINE_ID"
+```
 
 ### **openAI chatGPT API**
 ```bash
@@ -60,6 +61,6 @@ curl "https://api.openai.com/v1/chat/completions" \
             }
         ]
     }'
-
+```
 
 
